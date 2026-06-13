@@ -44,12 +44,6 @@ categories, and shipping modes.
 
 ---
 
-## Dashboard Preview
 
-![Dashboard](screenshots/sales_operations_dashboard.png)
 
----
 
-## Connect
-
-LinkedIn: [your LinkedIn profile link]
